@@ -100,12 +100,12 @@ h2 {
     #replay, h2 {
         transform: rotate(0deg);
     }
-
+    
     #ui {
         flex-flow: row wrap;
         margin-bottom: 20px;
     }
-    
+
     #score {
         margin-top: 0;
         margin-left: 20px;
