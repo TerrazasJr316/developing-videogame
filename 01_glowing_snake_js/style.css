@@ -105,12 +105,12 @@ h2 {
         flex-flow: row wrap;
         margin-bottom: 20px;
     }
-
+    
     #score {
         margin-top: 0;
         margin-left: 20px;
     }
-    
+
     .container {
         flex-flow: column wrap;
     }
