@@ -96,11 +96,11 @@ h2 {
     #replay {
         margin-bottom: 20px;
     }
-
+    
     #replay, h2 {
         transform: rotate(0deg);
     }
-    
+
     #ui {
         flex-flow: row wrap;
         margin-bottom: 20px;
